@@ -1,0 +1,13 @@
+.Skills {
+    display: flex;
+    border-bottom :4px solid red;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+ul > li{
+    display: flex;
+    flex-direction: row;
+}
