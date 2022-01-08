@@ -7,7 +7,20 @@
 
 }
 
-ul > li{
-    display: flex;
+.techlist {
+    display:flex ;
     flex-direction: row;
+    
+    justify-content: space-around;
+    align-items: center;
+}
+
+.techlist > * {
+    margin: 15px;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.heading{
+    font-family: 'Times New Roman', Times, serif;
 }
