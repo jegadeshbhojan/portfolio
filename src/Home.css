@@ -3,9 +3,14 @@
     
     justify-content: space-around;
     align-items: center;
+    background-color: burlywood;
+    border-radius: 15px;
+    width: 70%;
+    border-bottom: 1px solid red;
 
-    border-bottom: 2px solid red;
-
+}
+.header > * {
+    margin-right :30px;
 }
 
 body{

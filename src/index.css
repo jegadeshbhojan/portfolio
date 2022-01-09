@@ -1,6 +1,12 @@
 body {
   margin: 0;
-background-color: sandybrown;
+background-color: #e9c577;
+width: 100%;
 
 }
 
+body > .Skills {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

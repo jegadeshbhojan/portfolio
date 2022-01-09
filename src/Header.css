@@ -1,0 +1,17 @@
+.Headercls {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 70%;
+    height: 30px;
+    background-color: burlywood;
+    border-radius: 5px;
+    border-bottom: 2px solid red;
+}
+
+.btn1 {
+    background-color: rgb(224, 87, 87);
+    margin-left: 10px;
+    border-radius: 5px;
+    border :none
+}

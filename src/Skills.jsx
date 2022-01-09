@@ -12,7 +12,7 @@ export function Skills (){
             <li>Node js</li>
             <li>css</li>
             <li>jest </li>
-            <li>Bootstarp</li>
+            <li>Bootstrap</li>
         </ul>
         </div>
     )
